@@ -4,3 +4,8 @@
 《Harry Potter》全文人名出现频率饼状统计图（仅包含前十七个角色）
 
 [作业1链接](https://Martlet-DLC.github.io/nameinHP.html)
+## 2.作业2
+地理连线图之文成公主进藏路线图。  
+唐朝贞观年间，文成公主从长安出发，经过陕西、甘肃、青海、西藏各省，最终来到拉萨，下嫁松赞干布。本图以公主经过的主要城市为节点，在中国地图上绘制了文成公主进藏的大致路线图。
+
+[作业2链接](https://Martlet-DLC.github.io/geo_linesP.html)
